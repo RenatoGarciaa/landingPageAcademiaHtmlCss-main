@@ -6,10 +6,6 @@
 
 </div>
 
-### Vídeo ensinando detalhadamente como criar este projeto:
-https://www.youtube.com/watch?v=gqrLT6bfLwY&t=675s
-
-
 ### Este projeto é a criação de uma landingpage ficticia para uma academia.
 
 ### Nele foram abordados diversos conceitos de HTML e CSS, questões sobre hover, posicionamento, centralização de itens, inclusão de imagens no background entre outros.
