@@ -10,6 +10,8 @@
 
 ### Nele foram abordados diversos conceitos de HTML e CSS, questões sobre hover, posicionamento, centralização de itens, inclusão de imagens no background entre outros.
 
+### Link do video: https://www.youtube.com/watch?v=BAqBLtBp8G4&t=5s
+
 ### Permite se ter uma ideia sobre a criação de landingpages para aplicar em projetos reais.
 
 
